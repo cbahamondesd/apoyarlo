@@ -8,8 +8,6 @@ class App extends Component {
       <>
       <Personcard person={{firstName:"Doe",lastName:"Jane",age:45,haircolor:"Black"}} />
       <Personcard person={{firstName:"Smith",lastName:"John",age:88,haircolor:"Brown"}} />
-      <Personcard person={{firstName:"Fillmore",lastName:"Millard",age:50,haircolor:"Brown"}} />
-      <Personcard person={{firstName:"Smith",lastName:"Maria",age:62,haircolor:"Brown"}} />
       </>
     );
   }
